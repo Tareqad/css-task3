@@ -1,0 +1,77 @@
+
+.iphone{
+    background-color: azure;
+    width: 20%;
+   float: left;
+    border: lightblue solid;
+    margin-left: 2px;
+    margin-right: 2px;
+
+   
+}
+img{
+    width: 95%;
+    height: auto;
+    margin: 8px;
+    
+   
+}
+.p{
+    text-align: center;
+    
+}
+
+.addtocart{
+    color: white;
+    border: 0;
+    padding: 10px 110px;
+    background-color: rgb(6, 172, 238);
+    margin: 4px;
+}
+.like{
+    color: blue ;
+    font-size: 14px;
+    padding: 10px 10px;
+    border :blue 1px solid;
+    background-color: transparent;
+
+}
+i{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 20px;
+    color: white;
+    background-color:  rgb(6, 172, 238);
+    
+
+}
+.prices{
+    display: inline-flex;
+    margin-left: 4px ;
+}
+.oldprice{
+
+   text-decoration: line-through;
+    color: red;
+    font-size: 14px;
+    
+}
+h3{
+    margin: 4px;
+}
+p{
+    margin: 4px;
+}
+
+
+.newprice{
+    color: green;
+
+}
+.clearfix{
+    clear: both;
+}
+.ourProduct {
+   
+    margin: 20px 0;
+}
